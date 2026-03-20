@@ -20,6 +20,10 @@
     {
       "name": "design-system",
       "source": "./plugins/design-system"
+    },
+    {
+      "name": "ui-ux-pro-max",
+      "source": "./plugins/ui-ux-pro-max"
     }
   ]
 }

@@ -1,0 +1,5 @@
+{
+  "name": "component-builder",
+  "version": "1.0.0",
+  "description": "Reusable UI component building utilities for React, Vue, and vanilla JS"
+}

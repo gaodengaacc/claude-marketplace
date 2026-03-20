@@ -8,6 +8,18 @@
     {
       "name": "hello-world",
       "source": "./plugins/hello-world"
+    },
+    {
+      "name": "webui-master",
+      "source": "./plugins/webui-master"
+    },
+    {
+      "name": "component-builder",
+      "source": "./plugins/component-builder"
+    },
+    {
+      "name": "design-system",
+      "source": "./plugins/design-system"
     }
   ]
 }

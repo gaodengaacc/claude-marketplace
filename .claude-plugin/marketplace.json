@@ -24,6 +24,10 @@
     {
       "name": "ui-ux-pro-max",
       "source": "./plugins/ui-ux-pro-max"
+    },
+    {
+      "name": "prompt-optimizer",
+      "source": "./plugins/prompt-optimizer"
     }
   ]
 }

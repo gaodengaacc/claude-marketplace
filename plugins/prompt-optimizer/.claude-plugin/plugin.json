@@ -1,0 +1,5 @@
+{
+  "name": "prompt-optimizer",
+  "version": "1.0.0",
+  "description": "Transform vague prompts into precise, structured specifications using EARS methodology - saves tokens by optimizing prompt clarity and effectiveness"
+}
